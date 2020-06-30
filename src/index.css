@@ -1,0 +1,23 @@
+h1 {
+  color: purple;
+  font-style: italic;
+}
+.note {
+  color: blueviolet;
+  margin: 4px;
+  padding: 4px;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  border: 1px dashed black;
+}
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
