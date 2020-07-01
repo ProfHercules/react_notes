@@ -46,6 +46,7 @@ const App = () => {
         setTimeout(() => {
           setErrorMessage(null);
         }, 5000);
+        console.log(error);
         setNotes(notes.filter((n) => n.id !== id));
       });
   };
